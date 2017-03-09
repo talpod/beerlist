@@ -1,0 +1,10 @@
+.thumbnail {
+  height: 150px;
+  width: 100px;
+}
+.body {
+    background-image: url('http://enchantedmountains.com/files/events/beer_glass.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:50% 30%;
+}
